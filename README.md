@@ -41,5 +41,3 @@ Autor:
 Sam Jamsh
 
 ---
-
-Obrigado por usar o Hexadecimal Viewer!
